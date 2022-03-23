@@ -1,3 +1,4 @@
+![obraz_2022-03-23_222920](https://user-images.githubusercontent.com/88060437/159798945-8a74813f-a2f8-4919-b6ce-eb4ec9b87715.png)
 # Simple Task-Manager
   Not completed, works in progress 
 
