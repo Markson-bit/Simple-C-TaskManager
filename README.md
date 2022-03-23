@@ -1,9 +1,9 @@
 
 # Simple Task-Manager
-  *Not completed, works in progress* 
+   *Not completed, works in progress* 
 
 ### How works?
-  This is alpha version of not completed small project.
+   This is alpha version of not completed small project.
 
 ### Features:
   1. Showing tasks saved in file.
