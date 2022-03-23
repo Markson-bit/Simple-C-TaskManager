@@ -2,8 +2,9 @@
 # Simple C++ Task manager
    *Not completed, works in progress* 
 
-### How works?
+### Introduction:
    This is alpha version of not completed small project.
+   
 
 ### Features:
   1. Showing tasks saved in file.
