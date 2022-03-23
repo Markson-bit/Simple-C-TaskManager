@@ -1,5 +1,5 @@
 
-# Simple C++ task manager
+# Simple C++ Task manager
    *Not completed, works in progress* 
 
 ### How works?
