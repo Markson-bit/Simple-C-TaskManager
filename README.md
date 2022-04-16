@@ -3,7 +3,7 @@
    *Not completed, works in progress* 
 
 ### Introduction:
-   This is alpha version of not completed small project.
+   This is an alpha version of not completed small project.
    
 
 ### Features:
