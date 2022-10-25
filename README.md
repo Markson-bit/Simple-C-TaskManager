@@ -16,7 +16,7 @@
   
 ### Example screenshot:
 
-![image](https://user-images.githubusercontent.com/88060437/197901047-a80f7b60-70ca-4e44-8ae2-5532619c7129.png)
+![image](https://user-images.githubusercontent.com/88060437/197901228-3dc2a167-f59f-4547-a1fe-31760a8c312c.png)
 
 
 © 2022 Markson
