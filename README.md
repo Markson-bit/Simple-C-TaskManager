@@ -14,6 +14,9 @@
 ### Ideas for future:
   1. Adding index system that will make program more readable, specific tasks will be possible to delete.
   
-![obraz_2022-03-23_222920](https://user-images.githubusercontent.com/88060437/159798945-8a74813f-a2f8-4919-b6ce-eb4ec9b87715.png)
+### Example screenshot:
+
+![image](https://user-images.githubusercontent.com/88060437/197901047-a80f7b60-70ca-4e44-8ae2-5532619c7129.png)
+
 
 © 2022 Markson
