@@ -18,5 +18,3 @@
 
 ![image](https://user-images.githubusercontent.com/88060437/197901228-3dc2a167-f59f-4547-a1fe-31760a8c312c.png)
 
-
-© 2022 Markson
